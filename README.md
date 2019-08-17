@@ -1,4 +1,4 @@
-# chicago-elections-scraper
+# geocoder-tagger
 Set of Python 2 functions to [geocode](https://en.wikipedia.org/wiki/Geocoding) well-formated addresses in a pandas `DataFrame` using the [Google Geocoding API](https://developers.google.com/maps/documentation/geocoding/start) and to join resulting coordinates with the features of another set of geospatial data.
 
 ## Requirements
